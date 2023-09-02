@@ -1,0 +1,15 @@
+build/
+*.o
+*.obj
+*.elf
+*.exe
+*.i*86
+*.x86_64
+*.hex
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.mod*
+*.cmd
+Mkfile.old
