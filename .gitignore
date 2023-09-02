@@ -1,4 +1,5 @@
 build/
+
 *.o
 *.obj
 *.elf
@@ -12,4 +13,6 @@ build/
 *.pdb
 *.mod*
 *.cmd
+*.bin
+
 Mkfile.old
