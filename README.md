@@ -8,5 +8,3 @@
   - must get drive geometry using bios interrupt to read from disk (see osdev disk access)
   - min boot image size is 16MB (32768 clusters), change if=floppy on qemu
 
-[HELP - nanobyte](https://github.com/nanobyte-dev/nanobyte_os) \
-[FAT12 os ref](https://github.com/asido/OS/blob/master/boot/stage1.asm)
